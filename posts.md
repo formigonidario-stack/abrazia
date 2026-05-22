@@ -1,254 +1,247 @@
 # Posts LinkedIn — Gustavo Lijtmaer / Abrazia Senior Care
+Generado con skill `abrazia-gustavo-linkedin`
 
 ---
 
-## Post 1 — 2026-05-25 | Senior Living & Longevity | Inversores
+## Post 1 — 2026-06-02 | Deal Mechanics & Market Intel | Inversores | Texto
 
-Me preguntan seguido si no me preocupa la volatilidad macro para un proyecto como Abrazia.
+Me preguntan seguido si no me preocupa la macro argentina para un proyecto como Abrazia.
 
-La respuesta honesta es: no.
+La respuesta honesta: no.
 
-Y no porque sea optimista irracional.
-Sino porque la demanda del sector en el que trabajo no se mueve con el ciclo.
+No porque sea optimista sobre la economía. Sino porque la demanda del sector en el que trabajo no responde al ciclo del mismo modo que el real estate tradicional.
 
-Las familias no dejan de necesitar cuidado para sus padres cuando sube el dólar.
+Las familias no dejan de buscar cuidado para sus padres cuando sube el dólar.
 Los adultos mayores no dejan de envejecer cuando hay inflación.
 
-Eso no pasa en el real estate tradicional. Tampoco en hotelería, retail o comercial.
-Pasa en senior care premium. Y en muy pocos sectores más.
+En los 20 años que Samuel Senderovsky dirigió LeDor VaDor, ninguna crisis económica argentina redujo la demanda de camas. Ninguna. Ni 2001, ni 2008, ni 2018.
 
-Hay activos que necesitan que todo salga bien para funcionar.
-Este no es uno de ellos.
+El senior care no es consumo discrecional. Es una necesidad que no se pospone.
 
-¿Conocés otro sector con demanda igual de independiente del ciclo económico?
+Eso no significa que todo sale bien. Significa que el riesgo que importa acá no es el ciclo económico. Es si el proyecto tiene la operación, el equipo y el diseño para entregar lo que promete.
 
-> Engagement: 0-2 min — "La demanda predeterminada es el concepto que más repito. Más abajo lo explico con datos." | 30 min — dato adicional del memo | 60 min — preguntar algo puntual a quien comentó
+Ese es el riesgo que vale analizar.
 
----
+¿Cuántos activos conocés donde la demanda no correlacione con el ciclo?
 
-## Post 2 — 2026-05-27 | Deal Mechanics | Inversores | Carrusel
-
-Cuando le presento Abrazia a un inversor, hay un momento donde deja de hacer preguntas y empieza a tomar notas.
-
-Ese momento siempre llega en el mismo lugar.
-
-Cuando entiende que los cinco argumentos del proyecto se sostienen independientemente entre sí.
-
-> Titulo del carrusel: "5 razones por las que Abrazia tiene lógica estructural, no especulativa"
->
-> Slide 1 — Demanda predeterminada: "La demanda no depende de que la economía funcione bien." 5,8M de adultos mayores en Argentina. La población de 80+ se duplica en dos décadas. Estas personas ya nacieron. La demanda está predeterminada, no es una apuesta a que el mercado crezca.
->
-> Slide 2 — Negocio anticíclico: "Las familias no postergan el cuidado de sus padres porque haya inflación." No es consumo discrecional. Es una necesidad médica. En 20+ años de operación de LeDor VaDor nunca vimos correlación con ciclos económicos.
->
-> Slide 3 — Unit economics sólidos: "El modelo alcanza equilibrio con el 40% de ocupación." No hace falta llenarlo para que funcione. Eso diferencia al senior care del real estate tradicional.
->
-> Slide 4 — Sin competencia real: "En Zona Norte hay 6.000 familias ABC1 que necesitan cuidado profesional. No existe una sola institución de estándar internacional para recibirlos." No estamos entrando a un mercado competitivo. Estamos creando la categoría.
->
-> Slide 5 — Operador probado: "El equipo que opera Abrazia construyó y gestionó la residencia privada más grande de Argentina durante 20 años." No son proyecciones. Es experiencia real, con los errores ya cometidos y aprendidos.
->
-> CTA: "Compartí con alguien que evalúa inversiones en Argentina."
+> Nota: arranca desmontando la objeción más común de inversores. El cierre con pregunta es genuina — tiene respuesta concreta y genera conversación útil con el perfil de inversor exacto.
 
 ---
 
-## Post 3 — 2026-05-29 | Deal Mechanics | Inversores
+## Post 2 — 2026-06-04 | Senior Living & Longevity | Todos | Texto
 
-¿Por qué invertir en Abrazia ahora y no después?
+Hay un número que siempre para la conversación cuando lo cuento.
 
-Porque estas cinco condiciones coinciden hoy por primera vez. Y no van a volver a coincidir.
+En 1990 había 26 millones de personas mayores de 80 años en el mundo.
+Hoy hay 127 millones.
+En 2050 van a ser 447 millones. (Fuente: ONU WPP 2024)
 
-La primera: los costos de construcción en dólares todavía reflejan el descuento histórico de Argentina. Eso se normaliza. Y rápido.
+No es crecimiento lineal. Es exponencial. Y está concentrado exactamente en el segmento donde el cuidado se vuelve inevitable: deterioro cognitivo, pérdida de movilidad, dependencia total.
 
-La segunda: el riesgo constructivo ya fue superado. La estructura portante, lo más complejo y costoso, se ejecutó sin desvíos. El capital que entra ahora financia terminaciones, no cimientos.
+La infraestructura para recibirlos no creció al mismo ritmo. Ni de cerca.
 
-La tercera: en menos de 12 meses pasamos de obra a negocio operativo. El inversor que entra hoy participa de esa transición sin haber cargado el riesgo de las etapas tempranas.
+En Argentina la brecha es particularmente llamativa: tenemos el perfil demográfico de un país europeo y la oferta de camas institucionales de un país en desarrollo. 16 camas premium por cada 1.000 adultos mayores. Europa tiene entre 41 y 75.
 
-La cuarta: somos los primeros. El primero que abre con estándar internacional define la categoría. El que llega después enfrenta 3-4 años de construcción y un mercado que ya tiene una opción de confianza.
+Eso no es un problema de demanda futura. Es un déficit presente.
 
-La quinta: el 68% del capital ya fue comprometido. Esta es la ronda de cierre. No va a haber otra.
+Abrazia es una respuesta a ese déficit. No la única que necesita el país. Pero una de las primeras.
 
-Cada una de estas condiciones es temporal.
-Las cinco juntas, simultáneas, no se vuelven a dar.
+¿Qué explica que tengamos la demografía de Europa y la infraestructura de cuidado de otro nivel?
 
-¿Cuándo fue la última vez que viste cinco condiciones así coincidiendo en el mismo proyecto?
-
-> Engagement: 0-2 min — "Si querés el memo completo, escribime por DM." | 30 min — dato adicional de timing
-
----
-
-## Post 4 — 2026-06-01 | Senior Living & Longevity | Todos
-
-La tendencia más predecible del siglo está siendo ignorada.
-
-Y lo sé porque cuando empecé a investigar este sector, los datos me dejaron sin respuesta para una sola pregunta: ¿por qué nadie está construyendo lo que hace falta?
-
-En 1950, la estructura de la población mundial era una pirámide.
-Base ancha de jóvenes. Cima estrecha de adultos mayores.
-
-Para 2050 esa pirámide se convierte en un cilindro.
-En algunos países, se invierte.
-
-Las personas que van a tener 80 años en 2050 ya tienen 50 hoy.
-Están entre nosotros. Ya nacieron.
-
-No hay ninguna tendencia en economía, en tecnología, en geopolítica que sea tan predecible como esta.
-
-Y sin embargo, la infraestructura para recibirlos en Argentina es casi inexistente.
-
-Eso me pareció inaceptable hace años.
-Me lo sigue pareciendo hoy.
-
-¿Qué otro sector tiene una demanda tan predecible y tan poco atendida?
+> Nota: el salto de 26M a 447M en tres líneas es el hook que funciona. Dato macro con fuente, aterrizaje en Argentina, cierre con pregunta que no tiene respuesta fácil.
 
 ---
 
-## Post 5 — 2026-06-03 | Senior Living & Longevity | Inversores / Sector | Carrusel
+## Post 3 — 2026-06-06 | Behind the Scenes | Todos | Storytelling
 
-Hay tres datos sobre el envejecimiento global que cambiaron la manera en que pienso en Abrazia.
+Había una decisión que no podíamos evitar tomar.
 
-Los comparto porque son los que mejor explican por qué este sector va a ser uno de los más importantes de las próximas décadas.
+Cuando llegamos al piso 7, teníamos dos opciones para el sector de mayor dependencia: diseñar las habitaciones para optimizar la cantidad de camas, o diseñarlas para que la persona que vive ahí siga sintiéndose persona.
 
-Y porque una vez que los conocés, es difícil ignorarlos.
+La primera opción daba más camas. La segunda daba 79 metros cuadrados por unidad, casi el doble del estándar del sector.
 
-> Titulo del carrusel: "3 datos sobre el envejecimiento que son difíciles de ignorar"
->
-> Slide 1 — Vivimos más, pero los últimos años son los más difíciles: "En 1950, si llegabas a los 65, te quedaban 11 años de vida. Hoy, te quedan 18." Siete años más. Pero esos años concentran la mayor incidencia de deterioro cognitivo, pérdida de movilidad y necesidad de cuidado profesional. La longevidad no solo expande el número de adultos mayores. Expande el tiempo que cada uno va a necesitar ayuda. (Fuente: OECD Health at a Glance 2023)
->
-> Slide 2 — El mundo envejece más rápido de lo que construye: "De 830 millones de personas mayores de 65 hoy, vamos a 1.600 millones en 2050. El doble, en 25 años." Para 2050 va a ser 1 de cada 6 personas. El mundo necesita construir en una generación tanta infraestructura de cuidado como la que construyó en todo el siglo XX. (Fuente: ONU World Population Prospects 2024)
->
-> Slide 3 — El segmento que nadie puede ignorar: "El grupo de 80+ pasa de 127 millones a 447 millones. Un crecimiento de 3,5 veces en 25 años." Acá se concentran el Alzheimer, la pérdida de autonomía y la necesidad de cuidado las 24 horas. Un crecimiento de 3,5x garantiza demanda creciente de camas institucionales por décadas. (Fuente: ONU WPP 2024, US Census Bureau)
->
-> CTA: "Guardá este post. En 10 años va a ser el argumento más obvio del mundo."
+Elegimos la segunda. Y no fue una decisión fácil, porque menos camas en ese piso significa menos revenue por metro cuadrado.
+
+Pero había algo que no podía ignorar. En todos los centros que visité antes de arrancar, el espacio reducido no solo incomodaba. Cambiaba lo que era posible hacer adentro. Sin espacio no hay visitas largas. Sin espacio no hay rehabilitación diaria. Sin espacio, la persona deja de tener vida propia y empieza a ocupar un lugar en una institución.
+
+La arquitectura de un lugar de cuidado no es decoración.
+Es la condición mínima para que el cuidado funcione.
+
+¿Cuánto del cuidado real depende del espacio donde ocurre?
+
+> Nota: behind the scenes con tensión real (menos revenue vs. principio de diseño). El lector siente que está adentro de la decisión. Funciona para familias e inversores por razones distintas.
 
 ---
 
-## Post 6 — 2026-06-05 | LATAM Opportunity | Todos
+## Post 4 — 2026-06-09 | LATAM Opportunity | Sector / Inversores regionales | Texto
 
-Hay un dato que siempre genera silencio cuando lo cuento en una reunión.
+Hay algo que distingue el envejecimiento de América Latina del de Europa que muy poca gente tiene incorporado.
 
-Francia tardó 115 años para que su población mayor de 65 años pasara del 7% al 14%.
+Europa envejeció despacio. Francia tardó 115 años para que su población mayor de 65 años pasara del 7% al 14%. Ese proceso lento dio tiempo a construir hospitales, residencias, marcos regulatorios, una generación a la vez.
 
-Brasil va a completar la misma transición en 21 años.
+Brasil va a hacer la misma transición en 21 años.
 México en 25.
-Argentina ya está en el 12,6%.
+Argentina ya está en el 12,6% y sigue subiendo.
 
-No es que LATAM está envejeciendo lento.
-Es que está envejeciendo a una velocidad que Europa nunca vivió.
+La región está envejeciendo a una velocidad que Europa nunca experimentó. Y sin la infraestructura para recibirlo.
 
-Y sin la infraestructura para recibirlo.
+No porque no haya voluntad. Sino porque nadie lo construyó todavía.
 
-En Francia, ese proceso de 115 años dio tiempo a construir hospitales, residencias, sistemas de cuidado, marcos regulatorios. Una generación a la vez.
+Eso define una ventana. Las primeras instituciones que operen con estándar internacional en cada mercado van a tener una ventaja que los que lleguen después no van a poder replicar fácilmente: la reputación de haber sido los primeros en hacerlo bien.
 
-En Argentina tenemos veinte años para hacer lo que ellos hicieron en un siglo.
+Abrazia no es solo un proyecto en Argentina. Es el primer ladrillo de algo más grande.
 
-Eso explica por qué Abrazia existe.
-Y por qué tenemos que apurarnos.
+¿En qué mercado de LATAM ves más urgencia de este tipo de infraestructura?
 
-¿Cuántos proyectos conocés en LATAM que estén construyendo la infraestructura para esto?
+> Nota: el contraste Francia/Brasil/Argentina es el que más impacto genera en reuniones. Funciona igual de bien en texto. Cierra con pregunta regional que abre conversaciones con perfiles de otros países.
 
 ---
 
-## Post 7 — 2026-06-08 | Deal Mechanics | Inversores
+## Post 5 — 2026-06-11 | Senior Living & Longevity | Todos / Familias | Carrusel
 
-El mercado global de senior care supera el US$1,7 trillón al año.
+Cuando digo que Abrazia es diferente a lo que existe en Argentina, no lo digo como posicionamiento de marketing.
 
-Los grandes fondos de real estate médico tienen capitalizaciones de entre US$27.000 y US$96.000 millones.
-Solo en 2025 hubo 871 transacciones de M&A en el sector por más de US$30.000 millones. Un récord.
-Welltower, el más grande, invirtió US$6.200 millones en un solo trimestre.
+Lo digo porque hay cinco cosas concretas que cambian lo que es posible hacer por quien vive ahí.
 
-El capital institucional no está esperando para entrar.
-Entró hace años. Y sigue entrando.
+Las detallo acá.
 
-América Latina representa menos del 0,01% de ese mercado.
+> Titulo del carrusel: "5 cosas que Abrazia hace diferente"
+>
+> Slide 1 — Guardia médica activa las 24 horas, no pasiva. No es un médico que atiende emergencias. Es un equipo que hace rondas diarias, monitorea cambios y detecta problemas antes de que sean crisis. En un hogar, una caída nocturna puede pasar inadvertida horas. En Abrazia, el tiempo de respuesta se mide en minutos.
+>
+> Slide 2 — Rehabilitación integrada al modelo, no como servicio extra. Kinesiología, fisioterapia, hidroterapia. Para residentes permanentes: preservar la autonomía. Para post-quirúrgicos: recuperarla. No es un adicional. Es parte de cómo funciona el lugar.
+>
+> Slide 3 — 79 m2 por cama. El estándar del sector es 45. El espacio no es comodidad. Es la condición para que el cuidado ocurra de verdad: visitas largas, rehabilitación diaria, vida propia.
+>
+> Slide 4 — Programa social estructurado, no entretenimiento. Talleres, huerta terapéutica, circuito en rooftop, actividades culturales. El objetivo no es entretener. Es preservar la identidad y el propósito de cada residente. El aislamiento social acelera el deterioro cognitivo más que la patología misma.
+>
+> Slide 5 — La familia no delega. Se integra. Reportes periódicos, acceso abierto sin restricciones, acompañamiento en cada transición. Cuando la familia siente que tomó la mejor decisión posible, todo cambia.
+>
+> CTA: "Guardá esto para cuando llegue el momento de elegir para alguien que querés."
 
-No porque no haya población envejeciendo.
-Porque casi nadie construyó la infraestructura para recibirla.
-
-Estamos parados exactamente donde estaba Estados Unidos hace 30 o 40 años.
-Antes de que el sector se consolidara. Antes de que entrara el capital institucional. Antes de que existieran los estándares.
-
-Los que llegaron primero en ese momento construyeron algo muy difícil de replicar después.
-
-¿Por qué creés que el capital institucional todavía no llegó a LATAM en serio?
-
----
-
-## Post 8 — 2026-06-10 | Senior Living & Longevity | Todos | Texto + imagen
-
-Argentina tiene 5,8 millones de personas mayores de 65 años.
-El 12,4% de la población. El perfil demográfico de un país europeo.
-
-Camas institucionales premium disponibles en todo el país: menos de 550.
-
-No 550 por ciudad. En todo el país.
-
-Para ponerlo en perspectiva:
-Los Países Bajos tienen 75 camas institucionales por cada 1.000 adultos mayores.
-Estados Unidos, 52. España, 41.
-Argentina, 16. Y la mitad de esas instalaciones opera sin habilitación oficial.
-
-El problema en Argentina nunca fue la demanda.
-Siempre fue la oferta.
-
-Y eso es lo que Abrazia viene a cambiar.
-
-¿Qué explica que tengamos el perfil demográfico de Europa y la infraestructura de cuidado de otro nivel?
-
-> Imagen: infografía de barras horizontales. Países Bajos (75), EEUU (52), España (41), Argentina (16). Fondo verde oscuro, barras blancas, Argentina en naranja.
+> Nota: intro corta con convicción, slides con datos concretos. El slide 3 (79 vs 45 m2) y el slide 4 (aislamiento social) son los que más generan engagement porque sorprenden.
 
 ---
 
-## Post 9 — 2026-06-12 | Senior Living & Longevity | Familias
+## Post 6 — 2026-06-13 | Impacto Familiar | Familias | Storytelling
 
-En Argentina, 503.000 personas viven hoy con Alzheimer u otra forma de demencia.
-74.000 nuevos diagnósticos por año.
+Tengo un perfil en mente que vuelve siempre cuando diseño algo en Abrazia.
 
-Para 2050, esa cifra llega a 1.200.000.
+No tiene demencia. No perdió la movilidad.
+Camina, cocina, se viste solo.
+Tiene 81 años. Vive en un departamento en Vicente López.
+Los hijos están en distintos barrios, con sus vidas.
 
-He acompañado a muchas familias en el proceso de decidir institucionalizar a un padre con Alzheimer.
+Está bien. Pero llama cuatro veces por día.
 
-Es una de las decisiones más difíciles que existe.
-No porque no quieran hacerlo. Sino porque en Argentina las opciones disponibles hacen que esa decisión se sienta como una derrota.
+No porque sea dependiente. Porque en ese departamento, entre llamada y llamada, no hay nadie.
 
-El Alzheimer en su progresión hace inviable el cuidado domiciliario a largo plazo.
-No por falta de amor. Por falta de lo que ningún hogar puede ofrecer: supervisión continua, protocolos específicos, equipo entrenado y un entorno diseñado para la seguridad del paciente.
+La soledad a esa edad no es una incomodidad. La evidencia clínica la trata como factor de riesgo: incrementa en un 50% el riesgo de deterioro cognitivo y en un 29% el de enfermedad cardiovascular.
 
-La familia que cuida en casa termina agotada. El paciente, en riesgo.
+No necesita un médico de guardia.
+Necesita desayunar con alguien.
+Necesita que alguien le pregunte cómo estuvo la noche.
+Necesita comunidad con personas en la misma etapa de vida.
 
-Eso no es cuidado. Es desgaste mutuo.
+En Argentina no existe hoy una institución que le ofrezca eso sin tratarlo como enfermo.
 
-Abrazia existe también para esas familias.
+Eso también es lo que Abrazia viene a cambiar.
 
-¿Tuviste que tomar esa decisión con alguien cercano? ¿Cómo fue el proceso?
+¿Conocés a alguien en esa situación?
 
-> Engagement: responder cada comentario personal con cuidado, contexto sensible
+> Nota: el detalle "llama cuatro veces por día" es el que engancha. No es dramático — es reconocible. Las familias se identifican antes de que termine el segundo párrafo.
 
 ---
 
-## Post 10 — 2026-06-15 | Senior Living & Longevity | Todos
+## Post 7 — 2026-06-16 | Deal Mechanics & Market Intel | Inversores | Texto
 
-Visité docenas de geriátricos antes de decidir construir Abrazia.
+Una de las preguntas que más recibo cuando presento Abrazia es sobre la estructura legal.
 
-Lo que vi en la mayoría me convenció de que esto era necesario.
+Es la pregunta correcta.
 
-Casas adaptadas. 10, 15 camas.
-Sin médico de guardia permanente.
-Sin programa de actividades. Sin estimulación cognitiva. Sin comunidad.
+El instrumento que elegimos es un fideicomiso. No porque sea el más simple. Sino porque es el que mejor protege al inversor.
 
-El adulto mayor entraba. Y dejaba de vivir.
+Un fideicomiso separa los activos del proyecto de los activos personales de los fundadores. Los fondos que ingresan son administrados por un fiduciario independiente, no pasan por una cuenta de la empresa y no están sujetos a decisiones unilaterales.
 
-Perdía rutina. Perdía vínculos. Perdía propósito.
+El inversor sabe en todo momento dónde está su capital y cómo se está usando.
 
-Y la evidencia clínica dice algo muy claro: la falta de estimulación acelera el deterioro cognitivo y funcional más que la patología misma.
+Cuando alguien me pregunta "¿qué pasa si algo sale mal?", la respuesta que doy no es confianza en las personas. Es la estructura que hace que la confianza sea, en gran medida, irrelevante.
 
-El geriátrico promedio en Argentina no cuida.
-Almacena.
+Esa distinción importa. Especialmente en Argentina.
 
-Eso no es un juicio moral sobre las personas que los manejan.
-Es una descripción de lo que el modelo hace, o no hace, por quien vive ahí.
+¿Cuándo fue la última vez que un proyecto te explicó exactamente cómo está protegido tu capital antes de pedirte que invirtieras?
 
-Abrazia existe porque eso es inaceptable.
-Y porque se puede hacer diferente.
+> Nota: "la estructura que hace que la confianza sea irrelevante" es la frase que se lleva el lector. Directa, no defensiva. Construye credibilidad sin pedirla.
 
-¿Cuál creés que es el cambio mínimo que haría diferente ese modelo?
+---
 
-> Engagement: 0-2 min — "Esto no es un juicio. Es lo que vi. Y es lo que me hizo arrancar."
+## Post 8 — 2026-06-18 | Senior Living & Longevity | Familias | Texto
+
+Hay algo que no se dice seguido sobre el Alzheimer y vale decirlo.
+
+El cuidado domiciliario no falla por falta de amor. Falla porque el hogar no tiene lo que la enfermedad exige.
+
+El Alzheimer en su progresión requiere supervisión continua. Requiere un entorno diseñado para la seguridad del paciente. Requiere personal entrenado específicamente en manejo de conductas y episodios de confusión.
+
+Ningún hogar puede ofrecer eso. No porque la familia no quiera. Sino porque un hogar es un hogar, no una institución clínica.
+
+Lo que pasa cuando la familia lo intenta igual es predecible: el cuidador principal termina agotado. El paciente termina en riesgo. Y los dos terminan peor que si hubieran tomado la decisión antes.
+
+En Argentina hay hoy 503.000 personas con Alzheimer u otra forma de demencia. En 2050 van a ser 1.200.000.
+
+La infraestructura para recibirlos con dignidad no existe todavía.
+Abrazia va a ser parte de esa respuesta.
+
+¿Tuviste que acompañar a alguien en ese proceso? ¿Cómo fue?
+
+> Nota: abre con empatía estructural, no sentimental. "Un hogar es un hogar, no una institución clínica" es la frase que libera culpa y abre la conversación. Alto potencial de comentarios personales.
+
+---
+
+## Post 9 — 2026-06-20 | Behind the Scenes | Inversores / Sector | Texto
+
+Cuando armé el equipo de Abrazia, tenía una sola condición no negociable.
+
+No quería a nadie que tuviera teorías sobre cómo opera un centro de senior care.
+Quería a alguien que hubiera cometido los errores.
+
+Samuel Senderovsky dirigió LeDor VaDor durante más de 20 años. La residencia privada más grande de Argentina. 360 camas. Más de US$20M de ingresos anuales en su punto de madurez.
+
+Cuando se sumó a Abrazia, trajo algo que no existe en ningún pitch deck: el conocimiento de lo que sale mal y por qué.
+
+Sabe qué pasa cuando el protocolo de admisión es débil.
+Sabe exactamente cuánto personal necesitás por cama, no como proyección sino como hecho verificado.
+Sabe cómo se comporta la ocupación en los primeros 18 meses y dónde se concentra el riesgo operativo.
+
+La mayoría de los proyectos en este sector fallan en la operación. No porque el modelo esté mal. Porque el equipo nunca lo había hecho.
+
+En Abrazia, ya lo hicimos.
+
+¿Cuánto peso le das a la experiencia operativa cuando evaluás un proyecto?
+
+> Nota: "quería a alguien que hubiera cometido los errores" es el hook más fuerte del post. La credibilidad no se afirma — se muestra a través del criterio con el que se armó el equipo.
+
+---
+
+## Post 10 — 2026-06-23 | Senior Living & Longevity / LATAM Opportunity | Todos | Texto
+
+Me pregunto seguido qué va a parecer Abrazia dentro de diez años.
+
+No el edificio. El edificio ya lo sé.
+
+Me pregunto qué va a parecer la decisión de haberlo construido ahora, en Argentina, en este momento.
+
+Creo que va a parecer obvia.
+
+La misma obviedad que tiene hoy haber apostado a la infraestructura hospitalaria privada antes de que llegara el capital institucional. La misma que tiene haber construido los primeros shoppings en los 90 cuando nadie entendía bien el formato.
+
+Los que llegaron primero no lo hicieron porque el riesgo era bajo. Lo hicieron porque tuvieron convicción antes de que la evidencia fuera completa.
+
+En diez años, la cohorte de 80+ en Argentina va a ser notablemente más grande. La brecha entre oferta y demanda va a ser más visible, no menos. Y van a existir más proyectos como Abrazia, porque el primero habrá demostrado que el modelo funciona.
+
+No construimos Abrazia para ser los únicos.
+Lo construimos para ser los primeros.
+
+¿Qué otra industria en Argentina tiene hoy una brecha similar entre lo que se necesita y lo que existe?
+
+> Nota: post de visión y cierre de ciclo. Las analogías del hospital privado y los shoppings anclan la tesis en precedentes locales que el lector argentino reconoce. Cierra el plan con convicción fundacional.
