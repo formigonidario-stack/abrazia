@@ -370,6 +370,242 @@ Escribinos acá o al mail del perfil.
 
 ---
 
+---
+
+## Post 16 — Un número. Una decisión.
+**Audiencia:** Inversores  
+**Tipo:** Texto ultra corto — funciona como pattern interrupt en el feed  
+**Diseño:** Sí — imagen de fondo oscuro con el número "12-14%" en tipografía grande. Subtítulo: "anual en USD". Logo Abrazia abajo. Nada más.
+
+---
+
+12-14% anual en dólares.
+
+Con distribuciones bimestrales desde el primer día de operación.
+
+En un activo con demanda estructural, fideicomiso con administración independiente y un edificio de 14.100 m² en Nordelta como garantía real.
+
+No es una proyección optimista.
+Es el modelo que ya operó durante 20 años en el mismo sector, con el mismo equipo.
+
+Si querés entender cómo funciona, escribinos.
+
+---
+
+## Post 17 — El modelo que genera ingresos desde tres fuentes distintas
+**Audiencia:** Inversores  
+**Tipo:** Texto educativo  
+**Diseño:** Sí — diagrama simple con tres bloques: Residencia permanente / Rehabilitación con internación / Centro de Día ambulatorio. Cada uno con su descripción en una línea. Limpio, sin exceso.
+
+---
+
+La mayoría de los centros de cuidado tienen una sola fuente de ingreso: la cama ocupada.
+
+Abrazia tiene tres.
+
+**Residencia permanente.** 132 habitaciones para adultos mayores que necesitan asistencia continua. Es el núcleo del modelo y la fuente de ingreso más predecible.
+
+**Rehabilitación con internación.** 20 camas para post-quirúrgicos y recuperación de alta complejidad. Mayor rotación, mayor tarifa por día. Complementa la residencia con un perfil de paciente distinto.
+
+**Centro de Día y servicios ambulatorios.** Para adultos mayores que viven en su casa pero necesitan estimulación cognitiva, fisioterapia o supervisión médica durante el día. Sin cama ocupada, sin costo de internación: ingreso por servicio.
+
+Tres flujos. Tres perfiles de demanda. Tres fuentes de resiliencia para el inversor.
+
+Cuando una línea tiene baja ocupación, las otras no.
+
+---
+
+## Post 18 — La pregunta que nunca nos hacen pero deberían
+**Audiencia:** Inversores  
+**Tipo:** Texto de transparencia — alto engagement en LinkedIn por ser contracultural  
+**Diseño:** No necesita
+
+---
+
+Nadie nos pregunta cuál es el peor escenario.
+
+Deberían.
+
+El peor escenario de Abrazia es que la apertura se demore, que la ocupación tarde más de lo proyectado en llegar al break-even, y que las distribuciones empiecen más tarde de lo planeado.
+
+Eso no es un escenario de pérdida de capital. Es un escenario de demora en el retorno.
+
+¿Por qué? Porque el activo subyacente es un edificio real de 14.100 m² en una de las zonas de mayor demanda de la región. No es una promesa. Es una construcción con 63% de avance.
+
+El fideicomiso separa ese activo del riesgo operativo de la empresa. Las participaciones son transferibles. El capital no desaparece si el proyecto tarda más.
+
+El riesgo real de este proyecto no es si va a funcionar.
+Es cuánto tarda en funcionar.
+
+Eso es lo que un inversor serio debería preguntar. Y es lo que nosotros respondemos antes de que lo pregunten.
+
+---
+
+## Post 19 — Qué pasa después de que firmás
+**Audiencia:** Inversores en etapa de decisión  
+**Tipo:** Proceso paso a paso — reduce fricción de entrada  
+**Diseño:** Sí — timeline vertical o horizontal con 5 pasos. Simple, sans-serif, colores de marca.
+
+---
+
+Una de las cosas que más frena una decisión de inversión no es la duda sobre el proyecto.
+
+Es no saber qué pasa después de decir que sí.
+
+Esto es lo que ocurre cuando un inversor entra en Abrazia:
+
+**1. Reunión de presentación.** 30 minutos. Los números reales, la estructura legal, el estado de la obra. Sin presión.
+
+**2. Documentación.** Te mandamos el contrato de adhesión al fideicomiso y la documentación de FIDUCARE S.A. Tenés tiempo para revisarla con tu asesor legal.
+
+**3. Integración del 30%.** El anticipo se transfiere al fideicomiso, no a la empresa. Desde ese momento sos beneficiario con participación registrada.
+
+**4. Cuotas mensuales.** El saldo se abona en cuotas ajustadas por CAC. En dólares o equivalente en pesos. Sin sorpresas.
+
+**5. Apertura y distribuciones.** Desde enero 2028, los ingresos operativos se distribuyen proporcionalmente cada dos meses.
+
+Nada complejo. Nada opaco.
+Si querés empezar con el paso 1, escribinos.
+
+---
+
+## Post 20 — 503.000 personas con Alzheimer en Argentina. 1.200.000 en 2050.
+**Audiencia:** Inversores y familias  
+**Tipo:** Texto con dato central — alto potencial de difusión  
+**Diseño:** Sí — dato visual impactante. Dos números en pantalla: "503.000 hoy" vs "1.200.000 en 2050". Subtítulo: "La infraestructura para recibirlos no existe todavía."
+
+---
+
+503.000 personas tienen hoy Alzheimer u otra forma de demencia en Argentina.
+
+En 2050 van a ser 1.200.000.
+
+La infraestructura especializada para recibirlos con dignidad no existe. No en el volumen que se va a necesitar. No con el estándar que la enfermedad exige.
+
+El cuidado domiciliario del Alzheimer no falla por falta de amor. Falla porque el hogar no tiene supervisión continua, no tiene protocolos para episodios de confusión, no tiene personal entrenado en manejo de conductas. Un hogar es un hogar, no una institución clínica.
+
+Abrazia tiene un piso completo de cuidado de memoria. Diseñado desde el inicio para esta población. No adaptado.
+
+Para el inversor, eso es relevante por una sola razón: la demanda de camas especializadas en demencia no depende del ciclo económico, no tiene alternativa domiciliaria sostenible y no va a bajar.
+
+En ningún escenario.
+
+---
+
+## Post 21 — La regla que usamos para tomar decisiones de diseño
+**Audiencia:** Todos (familias e inversores)  
+**Tipo:** Storytelling — muy efectivo en LinkedIn para humanizar una marca  
+**Diseño:** No necesita (o foto de una habitación tipo con los m² visibles)
+
+---
+
+Cuando diseñamos las habitaciones, teníamos que elegir entre dos opciones.
+
+Optimizar la cantidad de unidades por planta. O diseñar cada unidad para que la persona que vive ahí siga sintiéndose persona.
+
+La primera opción daba más camas. Más ingresos por metro cuadrado en el corto plazo.
+
+La segunda daba 79 m² por unidad. Casi el doble del estándar del sector.
+
+Elegimos la segunda.
+
+No fue una decisión romántica. Fue una decisión de negocio.
+
+Visitamos muchos centros antes de diseñar el nuestro. Y vimos algo consistente: sin espacio, no hay visitas largas. Sin visitas largas, la familia empieza a dudar de si tomó la decisión correcta. Cuando la familia duda, la reputación del centro sufre. Cuando la reputación sufre, la ocupación también.
+
+El espacio no es hotelería.
+Es la condición para que el cuidado funcione. Y para que el modelo de negocio sea sostenible.
+
+---
+
+## Post 22 — Por qué los inversores extranjeros eligen este activo
+**Audiencia:** Inversores internacionales / perfiles con capital en el exterior  
+**Tipo:** Texto informativo  
+**Diseño:** No necesita
+
+---
+
+Abrazia acepta inversores del exterior.
+
+Las participaciones se suscriben en dólares. Las distribuciones se pagan en dólares. La estructura es un fideicomiso regulado por la CNV argentina, con administración independiente de FIDUCARE S.A.
+
+Para un inversor con capital fuera de Argentina, esto representa algo específico: acceso a un activo con demanda estructural en un mercado con brecha de oferta enorme, retorno proyectado de 12-14% anual en USD, y una barrera de entrada que se mantiene por años.
+
+No es exposición al riesgo soberano argentino en el sentido tradicional. Es exposición a la demografía argentina, que no depende de ningún gobierno.
+
+Los adultos mayores que van a necesitar cuidado asistido en los próximos 10 años ya nacieron. Eso no cambia con las elecciones.
+
+Si operás desde el exterior y querés entender la estructura legal y tributaria, podemos coordinar una llamada con nuestro equipo legal.
+
+---
+
+## Post 23 — Comparación que nadie hace
+**Audiencia:** Inversores inmobiliarios  
+**Tipo:** Texto contracultural — contrarian take, alto potencial de comentarios  
+**Diseño:** No necesita
+
+---
+
+Un departamento en Palermo rinde entre 3% y 4% anual en dólares si tenés suerte con el inquilino.
+
+Tiene riesgo de vacancia, riesgo de daño, riesgo de conflicto legal y riesgo de que el mercado se mueva en tu contra.
+
+Abrazia proyecta entre 12% y 14% anual en dólares.
+
+Con un activo subyacente real (no una promesa), un fideicomiso que separa tu capital del riesgo empresario, distribuciones bimestrales y una demanda que no correlaciona con el ciclo inmobiliario residencial.
+
+La mayoría de los inversores inmobiliarios argentinos nunca evaluaron el real estate médico. No porque no exista. Sino porque hasta ahora no había nada que valiera la pena evaluar.
+
+Eso cambió.
+
+---
+
+## Post 24 — Lo que pasa cuando el 100% está vendido
+**Audiencia:** Inversores indecisos  
+**Tipo:** Urgencia sin presión artificial — uno de los formatos de mayor conversión en LinkedIn  
+**Diseño:** Sí — imagen simple. Barra horizontal: "participaciones disponibles" casi llena. Texto: "Cuando llegue al 100%, la ventana cierra." Logo Abrazia.
+
+---
+
+Cuando el 100% de las participaciones esté vendido, la única forma de entrar en Abrazia es que alguien quiera salir.
+
+Eso puede pasar. Las participaciones son transferibles.
+
+Pero el que vende después de la apertura va a pedir el precio de un activo que ya demostró que funciona. El upside de la etapa de construcción ya no va a estar ahí.
+
+Hoy más del 70% ya está comprometido.
+
+No lo decimos para generar urgencia artificial. Lo decimos porque es el estado real del proyecto y porque quien está en proceso de análisis debería saberlo.
+
+El tiempo que lleva tomar una decisión de inversión de esta escala es razonable. Lo que no es razonable es esperar a que no queden lugares para empezar a analizarlo.
+
+Si todavía no pediste la documentación, este es el momento.
+
+---
+
+## Post 25 — Una sola pregunta para filtrar cualquier activo
+**Audiencia:** Inversores  
+**Tipo:** Texto conceptual — muy compartible en LinkedIn  
+**Diseño:** No necesita
+
+---
+
+Hay una pregunta que usamos para filtrar cualquier oportunidad de inversión.
+
+"Si la economía argentina empeora el año que viene, ¿la demanda de este activo sube, baja o es indiferente?"
+
+La mayoría de los activos bajan. O dependen de que la macro acompañe.
+
+El senior care es indiferente. Y en algunos escenarios, sube: cuando la presión económica obliga a familias que antes cuidaban en casa a buscar alternativas institucionales.
+
+Eso no es un argumento de marketing. Es lo que pasó en cada crisis de los últimos 30 años con los centros de cuidado asistido que operaban en Argentina.
+
+Ninguno cerró por falta de demanda.
+
+Si tenés un criterio de inversión parecido al nuestro, tiene sentido que hablemos.
+
+---
+
 ## Notas de publicación
 
 **Posts que no necesitan diseño (publicar texto solo):**
